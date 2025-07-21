@@ -13,8 +13,8 @@ plugins {
 }
 
 // Set as appropriate for your organization
-group = "com.yourorg"
-description = "Rewrite recipes."
+group = "com.thrivent.jakethomas914"
+description = "Rewrite Recipes - Basic Training"
 
 dependencies {
     // The bom version can also be set to a specific version
